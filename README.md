@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @windiz
 - PHP/.NET/SQL
-- 📫 How to reach me: Telegram @myllys20
+- 📫 How to reach me: Telegram @mulperi
 
 <!---
 windiz/windiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
